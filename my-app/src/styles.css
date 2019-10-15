@@ -3,3 +3,16 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.midmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: #292929;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: white;
+  margin-left: 20px;
+}
